@@ -67,7 +67,7 @@
         "Description": "Sets the server description as shown in the server connection window",
         "Keywords": "server,description,server.description",
         "FieldName": "server.description",
-        "InputType": "text",
+        "InputType": "Textarea",
         "ParamFieldName": "server.description",
         "IncludeInCommandLine": true,
         "SkipIfEmpty": true,
