@@ -66,7 +66,7 @@
         "Subcategory": "Server:dns:1",
         "Description": "Sets the server description as shown in the server connection window",
         "Keywords": "server,description,server.description",
-        "FieldName": "server.description",
+        "FieldName": "$SRVdDescription",
         "InputType": "Textarea",
         "ParamFieldName": "server.description",
         "IncludeInCommandLine": true,
